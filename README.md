@@ -1,0 +1,2 @@
+# Quiz-App
+Guess the Logo is an Android-based quiz application developed using Kotlin and XML layouts. It challenges users to identify logos from various brands across multiple categories. The app features dynamic UI updates, custom animations for correct/wrong answers, progress tracking, and hint mechanisms. It also supports offline play and level-based progression. Ideal for demonstrating concepts like activity navigation, state management, and resource handling in Android app development.
